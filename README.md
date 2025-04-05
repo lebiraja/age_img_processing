@@ -74,8 +74,9 @@ Ensure you are using **Python 3.x**.
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/your-username/age_img_processing.git
+cd age_img_processing
+
 ```
 
 2. **Download the pre-trained models** from the Google Drive link and place them in the same directory.
