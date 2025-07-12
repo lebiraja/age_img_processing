@@ -74,7 +74,7 @@ Ensure you are using **Python 3.x**.
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/your-username/age_img_processing.git
+git clone https://github.com/lebiraja/age_img_processing.git
 cd age_img_processing
 
 ```
